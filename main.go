@@ -1,6 +1,6 @@
 package main
 
-import "github.com/markbates/buffalo-bootstrap/cmd"
+import "github.com/gdey/buffalo-bootstrap/cmd"
 
 func main() {
 	cmd.Execute()
